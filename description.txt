@@ -1,0 +1,39 @@
+Core Elements of a Programming Language
+
+1. Data and Types
+- Basic data types (numbers, strings, booleans)
+- Variables and constants
+- Type system (static vs dynamic typing)
+- Data structures (arrays, records/objects)
+
+2. Control Flow
+- Sequential execution
+- Conditional statements (if/else)
+- Loops and iteration
+- Function calls and returns
+- Exception handling
+
+3. Operations
+- Arithmetic operators
+- Logical operators 
+- Assignment operators
+- Comparison operators
+
+4. Modularity
+- Functions/procedures
+- Scope rules
+- Parameter passing
+- Return values
+
+5. Syntax and Grammar
+- Keywords and reserved words
+- Expression syntax
+- Statement delimiters
+- Block structure
+- Comments
+
+6. Semantics
+- Evaluation rules
+- Type checking rules
+- Binding rules
+- Execution model

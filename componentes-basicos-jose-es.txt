@@ -1,0 +1,13 @@
+cartas:
+
+- objeto (string)
+
+- accion (string)
+
+- if 
+ - else (quizas es inecesario, tratandose de un if con una condicion, y dos opciones de 
+ejecucion despues de la bifurcacion)
+
+- for
+ - una carta para el for, y una como terminador
+
